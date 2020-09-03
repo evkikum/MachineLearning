@@ -1,0 +1,7 @@
+Sampling techniques
+Feature Engineering /Exploratory data analysis
+Evaluation Metrics /Sampling Technique
+Stat Analysis Basics
+gradient boosting (decision tree)
+predictive modeling, time series analysis and segmentation techniques
+ensemble: stacking

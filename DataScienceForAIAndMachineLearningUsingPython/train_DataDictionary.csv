@@ -1,0 +1,9 @@
+Features,TopValues,Class,MissingCount,MissingCountPercentage,FactorLength
+ORIGIN,"('American', 'Japanese', 'European')",category,0,0.0,3
+MPG,"('Min:', 9.0, ', Max:', 46.6, ', Mean:', 23.45, ', Skew:', 0.46)",float64,0,0.0,0
+CYLINDERS,"('Min:', 3, ', Max:', 8, ', Mean:', 5.47, ', Skew:', 0.51)",int64,0,0.0,0
+ENGINE DISP,"('Min:', 68.0, ', Max:', 455.0, ', Mean:', 194.41, ', Skew:', 0.7)",float64,0,0.0,0
+HORSEPOWER,"('Min:', 46, ', Max:', 230, ', Mean:', 104.47, ', Skew:', 1.09)",int64,0,0.0,0
+WEIGHT,"('Min:', 1613, ', Max:', 5140, ', Mean:', 2977.58, ', Skew:', 0.52)",int64,0,0.0,0
+ACCELERATE,"('Min:', 8.0, ', Max:', 24.8, ', Mean:', 15.54, ', Skew:', 0.29)",float64,0,0.0,0
+YEAR,"('Min:', 70, ', Max:', 82, ', Mean:', 75.98, ', Skew:', 0.02)",int64,0,0.0,0

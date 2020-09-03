@@ -1,0 +1,21 @@
+1. Desktop: 16 GB RAM, 500 GB HD, 64 bit OS. 
+1.1 Internet access without restriction
+
+2. Please install Anaconda from following link
+https://repo.continuum.io/archive/Anaconda3-5.1.0-Windows-x86_64.exe
+
+3. Install Libraries by running following command on Anaconda Prompt. Use file "Install.txt"
+
+4. Download Data files from locations
+https://community.qlik.com/servlet/JiveServlet/previewBody/18789-102-1-25268/AirPassengers.csv
+# Remove the first column as index after download
+https://github.com/vincentarelbundock/Rdatasets/blob/master/csv/MASS/Boston.csv
+# Remove the first column as index after download
+https://github.com/vincentarelbundock/Rdatasets/blob/master/csv/datasets/iris.csv
+
+5. For Text mining, download "stanford-ner-2014-06-16" from link https://distfiles.macports.org/stanford-ner/
+and copy in folder "D:\nltk_data" (Windows), /usr/local/share/nltk_data (Mac), /usr/share/nltk_data (Unix)
+
+
+ 
+

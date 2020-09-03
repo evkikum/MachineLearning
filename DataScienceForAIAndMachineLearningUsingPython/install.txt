@@ -1,0 +1,21 @@
+conda update -n base conda
+python -m pip install --upgrade pip
+conda install -c anaconda seaborn=0.7.1
+pip install pydotplus
+conda update scikit-learn
+conda update spyder # PYQt5 helps if python crashes
+pip install -U setuptools
+pip install -U virtualenv
+pip install pandas_ml
+pip install graphviz
+
+#Advance techniques
+pip install xgboost
+pip install catboost
+
+# Miscellaneous
+pip install -U statsmodels
+
+# Timeseries
+conda install -c conda-forge fbprophet
+conda install -c anaconda pyramid
