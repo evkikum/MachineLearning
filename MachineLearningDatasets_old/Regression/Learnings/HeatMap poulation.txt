@@ -1,0 +1,4 @@
+## THE BELOW WILL HELP DESIGN EXCELLENT HEATMAP
+
+plt.figure(figsize=(16,10))
+sns.heatmap(df_train.corr(),annot=True ,cmap='YlGnBu')
